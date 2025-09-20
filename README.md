@@ -53,7 +53,7 @@ Los reportes incluyen métricas como:
 ##  Resultados de la última ejecución
 
 Según los reportes, se ejecutaron **3 escenarios automatizados** donde 2 
-finalizaron con **estado exitoso y 1 escenario con **estado fallido:
+finalizaron con **estado exitoso** y 1 escenario con **estado fallido**:
 
 -   Reserva de una cita seleccionando una fecha en el calendario 
 -   Selección de una fecha específica en un mes diferente
@@ -69,6 +69,7 @@ finalizaron con **estado exitoso y 1 escenario con **estado fallido:
 - El **escenario 3** no pasó debido a que el campo de texto del Datepicker **sí permite la edición manual**, lo que difiere del requerimiento planteado. Esta diferencia no se debe a un error en la automatización, sino a una característica propia del componente de JQuery UI.  
 - El uso de **Screenplay Pattern** garantizó una implementación clara, mantenible y escalable, alineada con buenas prácticas de automatización.  
 - El reporte generado por SerenityBDD facilitó la visualización de resultados y la trazabilidad de los escenarios.  
+
 
 
 
