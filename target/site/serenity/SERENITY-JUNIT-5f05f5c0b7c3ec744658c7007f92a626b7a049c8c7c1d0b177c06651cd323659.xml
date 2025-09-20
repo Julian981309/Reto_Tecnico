@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="Selección de fechas en el calendario" skipped="0" tests="3" time="26.59" timestamp="2025-09-20 12:37:16"><testcase name="Seleccionar el día 15 del mes actual"/><testcase name="Seleccionar una fecha en el mes siguiente"/><testcase name="Validacion de campo bloqueado"><failure message="El campo de fecha permite la entrada manual. Valor actual: 12/15/2025" type="java.lang.AssertionError">El campo de fecha permite la entrada manual. Valor actual: 12/15/2025</failure><system-err>El campo de fecha permite la entrada manual. Valor actual: 12/15/2025&#13;
+stepdefinitions.DatepickerStep.validarCampoBloqueado(DatepickerStep.java:63)&#13;
+✽.el campo de texto no debe permitir la entrada manual(file:///C:/Users/julia/Downloads/Programacion-Inicio/Reto_SQA/src/test/resources/features/datepicker.feature:19)&#13;
+</system-err></testcase></testsuite>

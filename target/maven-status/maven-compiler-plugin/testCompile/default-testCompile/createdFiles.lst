@@ -1,0 +1,10 @@
+tasks\SeleccionarDia.class
+tasks\AbrirCampoFecha.class
+userinterfaces\DatepickerPage.class
+tasks\CambiarAlIframe.class
+tasks\NavegarAlProximoMes.class
+stepdefinitions\DatepickerStep.class
+tasks\IntentoIngresarFecha.class
+questions\FechaSeleccionada.class
+runners\DatepickerTest.class
+tasks\AbrirPagina.class
